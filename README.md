@@ -1,58 +1,135 @@
-<h1 align="center"> Hey there, I'm Pooja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LLM%20SECURITY%20%2F%20SOLUTIONS%20ENGINEER&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Bug%20Bounty%20Hunter%20%7C%20CTF%20Player&descAlignY=55&descSize=18" width="100%"/>
+
+<h1>POOJA BARUI</h1>
+
+</div>
+
+<hr>
+
+## ⚡ TERMINAL OF MINE
+
+```yaml
+Name: Pooja Barui
+
+Role:
+  - LLM Security / Solutions Engineer
+
+Tech Interests:
+  - LLM Security
+  - GenAI Applications
+  - Vulnerability Assessment & Penetration Testing (VAPT)
+  - Full Stack Development (Java + React)
+```
+
+<hr>
+
+## 🧠 ABOUT ME
+
+- 🔐 Focused on **LLM Security** and building secure GenAI solutions
+- 🛡️ Active **Bug Bounty Hunter** and **CTF Player**
+- 💻 Full Stack Developer — Java backend, React/JS frontend
+- 🧪 Exploring offensive security tooling and AI-driven vulnerability research
+- 🚀 Passionate about the intersection of AI, security, and software engineering
+
+<hr>
+
+## 💻 CURRENTLY LEARNING
+
+```python
+class PoojaBarui:
+
+    def __init__(self):
+        self.focus = [
+            "Deeptech Uses in Lifestyle",
+            "LLM Security",
+            "AI-Driven Threat Detection",
+            "Advanced VAPT Techniques"
+        ]
+
+    def mission(self):
+        return "Securing intelligent systems, one exploit at a time"
 
 
----
+me = PoojaBarui()
+print(me.mission())
+```
 
-  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pooja0542) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/poo.ja.980315/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__pooja.barui__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pooja-barui-9840261ba) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PoojaHacks) 
+<hr>
+
+## 🚀 TECH STACK
+
+### 🖥️ Full Stack Development
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🤖 GenAI Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VectorDB-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+
+### 🛡️ VAPT / Security Tools
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nikto-6E4C13?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nessus-00A88F?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLMap-806AE6?style=for-the-badge&logoColor=white"/>
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+<hr>
+
+## 📊 LIVE GITHUB STATS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poojabarui&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poojabarui&theme=dark&hide_border=true" width="48%"/>
+</div>
+
+<hr>
+
+## 🧬 CONTRIBUTION GRAPH
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poojabarui&theme=react-dark&hide_border=true" width="100%"/>
+</div>
 
 
- 
-  
+## 🌐 CONNECT WITH ME
 
-# 🌱 What am I currently doing?
+<p align="center">
+  <a href="https://github.com/poojabarui"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:poojabarui5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-- Graduated in B. Sc. (Hons) in Computer Science from Bangabasi College (Affiliated to University of Calcutta) [2020 - 2023]
+<hr>
 
-- Working as a Bug Bounty Hunter.
+## 👀 PROFILE VISITORS
 
-- Created YouTube Channel `TechSecInsights`. 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=poojabarui&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+</div>
 
----
-
-<p align="center"><img src="https://profile-counter.glitch.me/thepoojabarui/count.svg" /></p>
-
-<br>
-
-# 👩🏻‍🎓 About Me
-
-- 🔭 I’m currently working at Self Building.
-
-- 🌱 I’m currently learning **Blockchain Developement & Ethical Hacking**.
-
-
----
-
-# 💫 Connect with me in Techs
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/poojabarui)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pooja-barui-9840261ba)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Poo_ja24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/pooja_barui_24)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/profile/poojabarui/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg' alt='hackerearth' height='40'>](https://hackerearth.com/profile/@poojabarui2002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://hackerrank.com/profile/pooja_barui)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://geeksforgeeks.org/profile/poojabarb9r8) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://kaggle.com/profile/poojabarui)
-
----
-
-# 💻 Tech Stack
-
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-# 🐱 GitHub Skill Stats
-
-| 🏆 Pooja's Github Statistics 🔭|🎯 Most used languages 🏆|
-|----------------------------------|----------------------------|
-| [![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojabarui&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/poojabarui)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poojabarui&theme=midnight-purple&layout=compact&hide=css,html)](https://github.com/thepoojabarui/github-readme-stats) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=poojabarui&theme=dark&hide_border=false)<br/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
